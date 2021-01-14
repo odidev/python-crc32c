@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-crc32c/#history
 
+### [1.1.2](https://www.github.com/googleapis/python-crc32c/compare/v1.1.1...v1.1.2) (2021-01-14)
+
+
+### Bug Fixes
+
+* Add manylinux2014_x86_64 wheels ([#57](https://www.github.com/googleapis/python-crc32c/issues/57)) ([74cb457](https://www.github.com/googleapis/python-crc32c/commit/74cb457255a81d0aa5bee16425675140ed637410))
+
 ### [1.1.1](https://www.github.com/googleapis/python-crc32c/compare/v1.1.0...v1.1.1) (2021-01-14)
 
 
